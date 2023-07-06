@@ -1,3 +1,3 @@
 Personal Portfolio
 
-preview file: file:///C:/Users/jyoth/iindex.html
+file:///C:/Users/jyoth/iindex.html
